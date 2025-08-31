@@ -1,0 +1,93 @@
+[
+  {
+    "id": "tech_001",
+    "name": "Sautéing",
+    "category": "dry_heat",
+    "difficulty": "beginner",
+    "description": "Sautéing is a cooking method that uses a small amount of oil or fat in a shallow pan over relatively high heat. The word comes from the French verb 'sauter', meaning 'to jump', referring to the way food moves in the pan.",
+    "equipment": [
+      "skillet",
+      "spatula",
+      "tongs"
+    ],
+    "key_points": [
+      "Use high heat and small amount of oil",
+      "Keep food moving in the pan",
+      "Don't overcrowd the pan",
+      "Pat food dry before adding to pan"
+    ],
+    "common_mistakes": [
+      "Using too low heat",
+      "Overcrowding the pan",
+      "Not preheating the pan",
+      "Moving food too frequently"
+    ],
+    "best_for": [
+      "vegetables",
+      "small pieces of meat",
+      "seafood"
+    ],
+    "cooking_time": "2-10 minutes depending on ingredient"
+  },
+  {
+    "id": "tech_002",
+    "name": "Braising",
+    "category": "moist_heat",
+    "difficulty": "intermediate",
+    "description": "Braising is a combination cooking method where food is first seared at high temperature, then finished in liquid at lower temperature. This technique is perfect for tougher cuts of meat and hearty vegetables.",
+    "equipment": [
+      "dutch oven",
+      "heavy pot with lid",
+      "tongs"
+    ],
+    "key_points": [
+      "Sear food first for flavor development",
+      "Use enough liquid to partially cover food",
+      "Cook low and slow for tenderness",
+      "Keep pot covered during cooking"
+    ],
+    "common_mistakes": [
+      "Not searing properly first",
+      "Using too high heat during braising",
+      "Not using enough liquid",
+      "Lifting the lid too frequently"
+    ],
+    "best_for": [
+      "tough cuts of meat",
+      "root vegetables",
+      "whole chickens"
+    ],
+    "cooking_time": "1-4 hours depending on ingredient"
+  },
+  {
+    "id": "tech_003",
+    "name": "Tempura Frying",
+    "category": "deep_frying",
+    "difficulty": "advanced",
+    "description": "Tempura is a Japanese deep-frying technique that creates an incredibly light, crispy coating. The secret is in the batter preparation and oil temperature control.",
+    "equipment": [
+      "deep pot",
+      "thermometer",
+      "chopsticks",
+      "wire rack"
+    ],
+    "key_points": [
+      "Keep batter ice-cold and lumpy",
+      "Maintain oil temperature at 340-360°F",
+      "Don't overmix the batter",
+      "Fry in small batches"
+    ],
+    "common_mistakes": [
+      "Overmixing the batter",
+      "Oil temperature too low or high",
+      "Overcrowding the oil",
+      "Not draining properly"
+    ],
+    "best_for": [
+      "vegetables",
+      "seafood",
+      "delicate proteins"
+    ],
+    "cooking_time": "2-4 minutes per batch"
+  }
+]

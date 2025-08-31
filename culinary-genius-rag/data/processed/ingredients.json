@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ing_001",
+    "name": "Avocado",
+    "category": "fruit",
+    "description": "Creamy, nutrient-dense fruit with mild flavor and smooth texture",
+    "substitutes": [
+      "mashed banana (for baking)",
+      "hummus (for spreading)",
+      "Greek yogurt (for creaminess)"
+    ],
+    "storage": "Store at room temperature until ripe, then refrigerate for up to 1 week",
+    "season": "Year-round availability, peak in spring and summer",
+    "nutrition": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 9,
+      "fat": 15,
+      "fiber": 7,
+      "vitamin_k": "26% DV",
+      "folate": "20% DV"
+    },
+    "dietary_tags": [
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "keto",
+      "paleo"
+    ],
+    "cooking_uses": [
+      "salads",
+      "guacamole",
+      "smoothies",
+      "toast topping",
+      "sushi"
+    ]
+  },
+  {
+    "id": "ing_002",
+    "name": "Coconut Milk",
+    "category": "dairy_alternative",
+    "description": "Rich, creamy liquid extracted from mature coconut meat",
+    "substitutes": [
+      "heavy cream",
+      "cashew cream",
+      "whole milk + butter"
+    ],
+    "storage": "Unopened cans last 2-3 years, refrigerate after opening for 4-5 days",
+    "season": "Available year-round",
+    "nutrition": {
+      "calories": 445,
+      "protein": 5,
+      "carbs": 6,
+      "fat": 48,
+      "fiber": 2,
+      "iron": "22% DV",
+      "magnesium": "22% DV"
+    },
+    "dietary_tags": [
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "keto",
+      "paleo"
+    ],
+    "cooking_uses": [
+      "curries",
+      "soups",
+      "desserts",
+      "smoothies",
+      "baking"
+    ]
+  }
+]

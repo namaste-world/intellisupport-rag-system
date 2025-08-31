@@ -1,0 +1,59 @@
+[
+  {
+    "id": "nutr_001",
+    "topic": "Protein Requirements",
+    "category": "macronutrients",
+    "description": "Daily protein needs vary by age, sex, activity level, and health goals",
+    "key_points": [
+      "Adults need 0.8g protein per kg body weight minimum",
+      "Athletes may need 1.2-2.0g per kg body weight",
+      "Complete proteins contain all essential amino acids",
+      "Plant proteins can be combined for completeness"
+    ],
+    "food_sources": {
+      "animal": [
+        "chicken",
+        "fish",
+        "eggs",
+        "dairy"
+      ],
+      "plant": [
+        "lentils",
+        "quinoa",
+        "tofu",
+        "nuts",
+        "seeds"
+      ]
+    }
+  },
+  {
+    "id": "nutr_002",
+    "topic": "Mediterranean Diet Benefits",
+    "category": "dietary_patterns",
+    "description": "Research-backed eating pattern associated with numerous health benefits",
+    "key_points": [
+      "Emphasizes olive oil, fish, vegetables, and whole grains",
+      "Associated with reduced heart disease risk",
+      "May support brain health and longevity",
+      "Rich in antioxidants and healthy fats"
+    ],
+    "food_sources": {
+      "primary": [
+        "olive oil",
+        "fish",
+        "vegetables",
+        "fruits",
+        "whole grains"
+      ],
+      "moderate": [
+        "poultry",
+        "eggs",
+        "dairy"
+      ],
+      "limited": [
+        "red meat",
+        "processed foods"
+      ]
+    }
+  }
+]
